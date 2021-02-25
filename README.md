@@ -10,5 +10,5 @@
 ## 2021
 - [이근철 슨배님](https://github.com/TG-WinG/Tech-Concert/issues/4)
   - Date: 2021.03.13, 15:00
-  - Link: https://zoom.us/j/95631445745?pwd=R1JJKy9HUDFnaFBoQjVPSHBmZW5CQT09
+  - Link: https://zoom.us/j/95631445745
   - Password: 카카오톡 공지 참고
