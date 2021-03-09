@@ -14,5 +14,9 @@
   - Password: 카카오톡 공지 참고
 - [한진원 슨배님](https://github.com/TG-WinG/Tech-Concert/issues/5)
   - Date: 2021.03.27, 15:00
-  - Link: https://zoom.us/j/2577695325
+  - Link: https://zoom.us/j/2577695325 
+  - Password: 카카오톡 공지 참고
+- [안재성 슨배님](https://github.com/TG-WinG/Tech-Concert/issues/6)
+  - Date: 2021.04.10, 15:00
+  - Link: https://zoom.us/j/2577695325 
   - Password: 카카오톡 공지 참고
