@@ -20,3 +20,16 @@
   - Date: 2021.04.10, 15:00
   - Link: https://zoom.us/j/2577695325 
   - Password: 카카오톡 공지 참고
+- [이동훈 슨배님](https://github.com/TG-WinG/Tech-Concert/issues/7)
+  - Date: 2021.05.01, 20:00
+  - Register Link: https://forms.gle/sEhHBcvLDUxGNRWB9
+  - Zoom Link: https://zoom.us/j/2577695325
+  - Password: 이메일 참고
+- *컨택중*
+  - Date: 2021.05.29, 17:00
+  - Zoom Link: https://zoom.us/j/2577695325
+  - Password: 카카오톡 공지 참고
+- [배성호 슨배님](https://github.com/TG-WinG/Tech-Concert/issues/8)
+  - Date: 2021.05.29, 17:00
+  - Zoom Link: https://zoom.us/j/2577695325
+  - Password: 카카오톡 공지 참고
