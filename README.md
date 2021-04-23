@@ -26,7 +26,7 @@
   - Zoom Link: https://zoom.us/j/2577695325
   - Password: 이메일 참고
 - *컨택중*
-  - Date: 2021.05.29, 17:00
+  - Date: 2021.05.15, xx:xx
   - Zoom Link: https://zoom.us/j/2577695325
   - Password: 카카오톡 공지 참고
 - [배성호 슨배님](https://github.com/TG-WinG/Tech-Concert/issues/8)
