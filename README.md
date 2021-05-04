@@ -26,7 +26,7 @@
   - Zoom Link: https://zoom.us/j/2577695325
   - Password: 이메일 참고
 - [조영제 선배님](https://github.com/TG-WinG/Tech-Concert/issues/8)
-  - Date: 2021.05.08, xx:xx
+  - Date: 2021.05.08, 14:00
   - Zoom Link: https://zoom.us/j/2577695325
   - Password: 카카오톡 공지 참고
 - [배성호 슨배님](https://github.com/TG-WinG/Tech-Concert/issues/9)
